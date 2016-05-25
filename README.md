@@ -1,6 +1,6 @@
 # hello-world-cloudformation
 
-This is a test cloudformation template that sets up a VPC, Security Group and a Single app server from my pre-built AMI
+This is a test cloudformation template that sets up a Security Group and a Single app server from my pre-built AMI
 
 It takes the following inputs
 Keyname : Name of the EC2 Keypair for SSH access
